@@ -34,7 +34,7 @@ our %RE = (
                     shift @pat;
                 }
             }
-            $res;
+            qr/$res/;
         },
     },
 );
