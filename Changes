@@ -1,5 +1,3 @@
-Revision history for Regexp-Pattern-RegexpCommon
-
 0.002   2016-12-31 (PERLANCAR)
 
 	- Quote Regexp::Common pattern with qr// to remove its magic.
